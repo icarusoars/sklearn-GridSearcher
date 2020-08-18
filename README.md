@@ -35,4 +35,5 @@ gs.report()
 ```
 
 # Example Output
-![](example/example-ouput.png)
+
+![Example Output](example/example-output.png)
