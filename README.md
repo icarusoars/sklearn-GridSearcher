@@ -20,7 +20,7 @@ params = {
         'max_depth': [5, 10]
     },
     'KNN': {
-        'n_neighbors': [1,3,5,10]
+        # you can leave the params of an estimator empty to just fit the default one
     }
 }
 
